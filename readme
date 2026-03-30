@@ -1,0 +1,4 @@
+Example of compiling and running:
+
+javac Team.java
+java Team < Team.in
